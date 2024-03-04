@@ -1,7 +1,6 @@
 {
   "name": "no-flexing-club",
-  "version": "1.1.2",
-  "private": false,
+  "version": "1.1.3",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,12 +8,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "geri-teaproject": "^1.1.2",
-    "go-tea": "^1.1.2",
+    "dashmail": "^1.0.0",
+    "geri-teaproject": "^1.1.3",
     "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18",
-    "vue-teaproject": "^1.1.2"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -31,7 +29,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geridwihandika/no-flexing-club.git"
+    "url": "https://github.com/geridwihandika/no-flexing-club.git"
   },
   "keywords": [
     "tealabs"
